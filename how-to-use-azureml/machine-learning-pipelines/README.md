@@ -37,15 +37,11 @@ Azure Machine Learning Pipelines optimize for simplicity, speed, and efficiency.
 In this directory, there are two types of notebooks: 
 
 * The first type of notebooks will introduce you to core Azure Machine Learning Pipelines features. These notebooks below belong in this category, and are designed to go in sequence; they're all located in the "intro-to-pipelines" folder:
-
-1. [aml-pipelines-getting-started.ipynb](https://aka.ms/pl-get-started)
-2. [aml-pipelines-with-data-dependency-steps.ipynb](https://aka.ms/pl-data-dep)
-3. [aml-pipelines-publish-and-run-using-rest-endpoint.ipynb](https://aka.ms/pl-pub-rep)
-4. [aml-pipelines-data-transfer.ipynb](https://aka.ms/pl-data-trans)
-5. [aml-pipelines-use-databricks-as-compute-target.ipynb](https://aka.ms/pl-databricks)
-6. [aml-pipelines-use-adla-as-compute-target.ipynb](https://aka.ms/pl-adla)
+Take a look at [intro-to-pipelines](./intro-to-pipelines/) for the list of notebooks that introduce Azure Machine Learning concepts for you.
 
 * The second type of notebooks illustrate more sophisticated scenarios, and are independent of each other. These notebooks include:
 
-1. [pipeline-batch-scoring.ipynb](https://aka.ms/pl-batch-score)
-2. [pipeline-style-transfer.ipynb](https://aka.ms/pl-style-trans)
+1. [pipeline-batch-scoring.ipynb](https://aka.ms/pl-batch-score): This notebook demonstrates how to run a batch scoring job using Azure Machine Learning pipelines.
+2. [pipeline-style-transfer.ipynb](https://aka.ms/pl-style-trans): This notebook demonstrates a multi-step pipeline that uses GPU compute.
+
+ ![Impressions](https://PixelServer20190423114238.azurewebsites.net/api/impressions/MachineLearningNotebooks/how-to-use-azureml/machine-learning-pipelines/README.png)
